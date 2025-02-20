@@ -1,6 +1,14 @@
 # Movie Recommendation System
 
-A modern movie recommendation system with a beautiful React frontend and Python backend.
+A sophisticated movie recommendation system that combines the power of machine learning with a modern web interface. This project uses the TMDB Movies Dataset to provide personalized movie recommendations based on user preferences and viewing history. The system features a React-based frontend with TypeScript and Tailwind CSS for a beautiful, responsive UI, and a Python backend that implements advanced recommendation algorithms.
+
+### Key Highlights
+- 🎬 Access to 930,000+ movies from TMDB dataset
+- 🎯 Personalized movie recommendations
+- 🎨 Modern, responsive UI with dark mode
+- 🚀 Fast and efficient search functionality
+- 📱 Mobile-friendly design
+- 🔄 Real-time updates and suggestions
 
 ## Dataset
 
@@ -152,7 +160,28 @@ cd movie-recommender
 5. Open a Pull Request
 
 ## License
-[Add your license here]
+
+MIT License
+
+Copyright (c) 2024 Adnan
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ## Note
 This is a development setup. For production deployment, additional configuration and security measures are required. 
