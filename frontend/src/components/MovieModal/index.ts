@@ -1,0 +1,1 @@
+export { MovieModal } from './MovieModal';
